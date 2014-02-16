@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.border {
+	width: 600px;
+}
+
+.link {
+	background: silver;
+	display: block;
+	width: 10em;
+	padding: 5px;
+	float: left;
+	text-decoration: none;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	float: left;
+}
+
+ul {
+	list-style-type: none;
+}
